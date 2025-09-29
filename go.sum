@@ -1,0 +1,2 @@
+// This file is required for Go module detection
+// Even though we have no dependencies, go.sum must exist
