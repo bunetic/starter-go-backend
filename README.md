@@ -2,6 +2,11 @@
 
 A simple Go backend starter template with frontend demo showing health checks and ping-pong communication.
 
+# Screenshot
+
+<img width="586" height="496" alt="Screenshot 2025-09-30 at 11 40 16 PM" src="https://github.com/user-attachments/assets/4b1d93c9-7b9f-4d51-8607-40abf4844ec7" />
+
+
 ## File Structure
 
 This template contains the files needed to deploy a Go backend with frontend on Bunetic:
